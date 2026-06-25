@@ -15,6 +15,4 @@ A dragon stole my laptop during a pirate attack on Mars.
 
 ## Built With
 - Python
-- random module# day3-random-excuse-generator
-# day3-random-excuse-generator
-# day3-random-excuse-generator
+- random module
